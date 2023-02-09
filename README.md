@@ -17,4 +17,4 @@ This repository showcases my data analytics projects and work samples. Each proj
 
 ## Contact
 
-If you have any questions or would like to learn more about my data analytics experience, please feel free to contact me at [insert email].
+If you have any questions or would like to learn more about my data analytics experience, please feel free to contact me at kranthisai13@gmail.com.
